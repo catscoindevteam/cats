@@ -7,7 +7,7 @@ Users can contribute to the network in two separate ways.
 Proof of Stake: 10% of every block reward goes to the stake holders of the project. 
 Individuals that stake will receive a portion of the POS rewards. 
 Masternodes: 80% of every bock reward goes to Masternode holders.
-More information at [catscoin.org](http://www.catscoin.org) 
+More information at [catscoin.net](http://www.catscoin.net) 
 
 ### Coin Specs
 <table>
@@ -15,7 +15,6 @@ More information at [catscoin.org](http://www.catscoin.org)
 <tr><td>Block Time</td><td>60 Seconds</td></tr>
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
 <tr><td>Max Coin Supply (PoW Phase)</td><td>250 CATS</td></tr>
-<tr><td>Max Coin Supply (PoS Phase)</td><td>49,749,750 CATS</td></tr>
 <tr><td>Premine</td><td>250,000 CATS*</td></tr>
 </table>
 
